@@ -1,0 +1,59 @@
+body {
+    background-color: #f3e8ff; /* lilás claro */
+    font-family: Arial, sans-serif;
+    color: #3b0764;
+}
+
+#pagina {
+    margin: 20px;
+}
+
+.cabecalho {
+    text-align: center;
+    background-color: #d8b4fe;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.titulo {
+    font-family: 'Poppins', sans-serif; 
+    color: #4c1d95;
+}
+
+.bloco {
+    background-color: #ede9fe;
+    margin: 15px 0;
+    padding: 10px;
+    border-left: 5px solid #a78bfa;
+}
+
+a[target="_blank"] {
+    color: #6b21a8;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #c026d3;
+}
+
+p {
+    font-style: italic;
+}
+
+li {
+    margin: 5px 0;
+}
+
+figure {
+    text-align: center;
+}
+
+img {
+    border-radius: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
